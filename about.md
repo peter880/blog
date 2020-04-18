@@ -3,7 +3,7 @@ layout: page
 title: About Peter
 permalink: /about/
 ---
-<img src="/assets/media/about/IMG_0646_crop.jpg" alt="背後是位在青海省的祁連山" style="border: 6px solid #ddd;">
+<img src="/blog/assets/media/about/IMG_0646_crop.jpg" alt="背後是位在青海省的祁連山" style="border: 6px solid #ddd;">
 
 18 歲以前一直在台北，之後一路往南到中壢，一度覺得要在新竹落腳，當個地道的竹科新跪。某天腦袋一熱就到了北京，現在在這工作，生活。
 
