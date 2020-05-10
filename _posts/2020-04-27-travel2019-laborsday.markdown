@@ -54,8 +54,10 @@ image: /blog/assets/media/683a637f9e8b7309dedc08e6999a05e9.jpg
 
 \[20200501\]: [第一站: 齊齊哈爾]("/blog/travel/china/2020/05/01/travel2019-qiqihaer.html")
 \[20200505\]: [第二站: 滿州里]("blog/travel/china/2020/05/05/travel2019-manchuli.html")
+\[20200510\]: [第三站: 海拉爾]("blog/travel/china/2020/05/10/travel2019-hailaer.html")
 ***
 **更新紀錄**
 
 [20200501] 後續貼文. 齊齊哈爾
 [20200505] 後續貼文. 滿州里
+[20200510] 後續貼文. 海拉爾
