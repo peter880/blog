@@ -3,20 +3,20 @@ layout: post
 title: 旅行‧成都‧都江堰
 date: 2020-06-27   
 categories: Travel China 
-image: /blog/assets/media/20200627/efbe78333f6519f658bb9fed9bf9b289.webp
+image: /blog/assets/media/20200627/efbe78333f6519f658bb9fed9bf9b289.jpeg
 ---
 
 都江堰是世界著名的水利工程，位在距離成都市區大約50公里的的都江堰市。這裡除了都江堰還有道教名山青城山，分為青城前山和後山，時間充裕的話在這裡住一晚，景點都走一遍可以說是撮撮有餘了。從成都出發搭地鐵2號線到達終點站犀浦，接著轉乘通勤高鐵到達都江堰，票價10元人民幣，簡直就是佛心價。到達都江堰市後再搭乘公車前往這兩個著名的景點。
 
-![](/blog/assets/media/20200627/6d5e5e910a971adc246ee058a8b0cd12.webp)
+![](/blog/assets/media/20200627/6d5e5e910a971adc246ee058a8b0cd12.jpeg)
 
 **天府號通勤高鐵**
 
-![](/blog/assets/media/20200627/40a78764aae7852e57af08a35ed2a8f0.webp)
+![](/blog/assets/media/20200627/40a78764aae7852e57af08a35ed2a8f0.jpeg)
 
 **都江堰景區**
 
-![](/blog/assets/media/20200627/a00605eb705478b8318cb34ccbe5576d.webp)
+![](/blog/assets/media/20200627/a00605eb705478b8318cb34ccbe5576d.jpeg)
 
 **青城山景區**
 
@@ -27,15 +27,15 @@ image: /blog/assets/media/20200627/efbe78333f6519f658bb9fed9bf9b289.webp
 
 景區門票80元人民幣，沒有實體票，只能在微信上面購買，對於非持有身分證的人來說買起來有點複雜，首先要再網上購票付費，然後再到窗口確認門票，最後在憑證進場，我都頭暈了。都江堰是由多個工事所構成，包括寶瓶口，魚嘴，人字堤，飛沙雁，還有壘山上的二王廟，禹王廟，城隍廟，觀景台。景區很大也很曬，大約花4\~6小時能逛完。
 
-![](/blog/assets/media/20200627/4428f24adbd35605d7bcc2d2d64bb5e2.webp)
+![](/blog/assets/media/20200627/4428f24adbd35605d7bcc2d2d64bb5e2.jpeg)
 
 **臥鐵，用來量測警示水位**
 
-![](/blog/assets/media/20200627/9528a0f56c0cf5950915d6f152d19c06.webp)
+![](/blog/assets/media/20200627/9528a0f56c0cf5950915d6f152d19c06.jpeg)
 
 **伏龍觀，紀念李冰父子**
 
-![](/blog/assets/media/20200627/7dca23c22d482cda819310e5f299e6db.webp)
+![](/blog/assets/media/20200627/7dca23c22d482cda819310e5f299e6db.jpeg)
 
 **李冰的石雕，1974年整修都江堰時候在江心發現**
 
@@ -44,11 +44,11 @@ image: /blog/assets/media/20200627/efbe78333f6519f658bb9fed9bf9b289.webp
 
 是用來控制江水進入內江的咽喉，江水透過內江流入成都平原，這個設計很神奇的是不論外面江水有多大，都能精準的控制進入內江的水量，確保不至於造成洪水氾濫。至於多餘的水，就透過旁邊的金馬河流走了。
 
-![](/blog/assets/media/20200627/efbe78333f6519f658bb9fed9bf9b289.webp)
+![](/blog/assets/media/20200627/efbe78333f6519f658bb9fed9bf9b289.jpeg)
 
 **在觀瀾亭上面近看的寶瓶口，水量非常湍急**
 
-![](/blog/assets/media/20200627/ba9b68e6e137791cb5546a291d3feed4.webp)
+![](/blog/assets/media/20200627/ba9b68e6e137791cb5546a291d3feed4.jpeg)
 
 **多餘無法進入內江的水，從旁邊的排出**
 
@@ -57,11 +57,11 @@ image: /blog/assets/media/20200627/efbe78333f6519f658bb9fed9bf9b289.webp
 
 之所以能精準的控制進入寶瓶口的水量，飛沙堰功不可沒。枯水季將江水引入內江，使得不至於乾涸。洪水季時，將過多的江水排入外江。還有一個設計，利用離心力做到排沙的功能，使得河道不至於受到泥沙淤積的困擾，幾千年前就能夠考慮的這麼周到，古人的智慧不容小看。
 
-![](/blog/assets/media/20200627/4ac2e3eae55b0a5ae73c81ad7d1bbbd5.webp)
+![](/blog/assets/media/20200627/4ac2e3eae55b0a5ae73c81ad7d1bbbd5.jpeg)
 
 **遠看飛沙堰**
 
-![](/blog/assets/media/20200627/72a262c602c1bea8f2be0a6d41874ef3.webp)
+![](/blog/assets/media/20200627/72a262c602c1bea8f2be0a6d41874ef3.jpeg)
 
 **飛沙堰本體**
 
@@ -70,17 +70,17 @@ image: /blog/assets/media/20200627/efbe78333f6519f658bb9fed9bf9b289.webp
 
 魚嘴將泯江分為內江以及外江，是都江堰重要的部分，引入內江的水入成都平原灌溉。水量小的時候，四成江水流入外江，六成流入內江，保證灌溉的水量。洪水季節時，水位提高，高過魚嘴，六成水流到外江，四成流入內江，以避免受到水澇。人字堤和金剛堤真正的分為內外兩江。
 
-![](/blog/assets/media/20200627/ce7e73e7e659f2b4599c4c22abfdb1a9.webp)
+![](/blog/assets/media/20200627/ce7e73e7e659f2b4599c4c22abfdb1a9.jpeg)
 
-![](/blog/assets/media/20200627/f591acb8b5d3668416b35d5e80c71086.webp)
+![](/blog/assets/media/20200627/f591acb8b5d3668416b35d5e80c71086.jpeg)
 
 **榪槎，放在魚嘴用來分流的工事**
 
-![](/blog/assets/media/20200627/589546c4c9066af89d88e58c8a77379d.webp)
+![](/blog/assets/media/20200627/589546c4c9066af89d88e58c8a77379d.jpeg)
 
 **人字堤上看到的外江**
 
-![](/blog/assets/media/20200627/5502dd2b27a11d8bc3a41400b35a833a.webp)
+![](/blog/assets/media/20200627/5502dd2b27a11d8bc3a41400b35a833a.jpeg)
 
 **連接金剛堤以及玉壘山的安瀾索橋**
 
@@ -89,11 +89,11 @@ image: /blog/assets/media/20200627/efbe78333f6519f658bb9fed9bf9b289.webp
 
 南橋在景區外面，跨越了流往成都平原的內江。南橋的對岸是商店街以及旅館，還有沿著內江開設的咖啡廳，如果不想花錢進景區逛逛，也可以在沿著河岸開設的咖啡廳坐著，欣賞都江堰湍急的流水。
 
-![](/blog/assets/media/20200627/7b64f01578daa1c99fa976c9cce6938f.webp)
+![](/blog/assets/media/20200627/7b64f01578daa1c99fa976c9cce6938f.jpeg)
 
-![](/blog/assets/media/20200627/b7355ff7a3b7bc232cd4da03958d8c66.webp)
+![](/blog/assets/media/20200627/b7355ff7a3b7bc232cd4da03958d8c66.jpeg)
 
-![](/blog/assets/media/20200627/c369360e3c3f4aaa7622885eef6a907c.webp)
+![](/blog/assets/media/20200627/c369360e3c3f4aaa7622885eef6a907c.jpeg)
 
 **南橋跨過引水的走馬河**
 
@@ -102,19 +102,19 @@ image: /blog/assets/media/20200627/efbe78333f6519f658bb9fed9bf9b289.webp
 
 玉壘山位在都江堰的東邊，紀念李冰父子的二王廟，還有紀念大禹的禹王廟，還能爬到制高點，鳥瞰都江堰的全貌，這次的旅程留太少時間給這裡，沒能逛完有點可惜，如果時間充裕可以留個三個小時，畢竟要爬山，很花體力。
 
-![](/blog/assets/media/20200627/633288a05ab1dc319510806d6c3fc40b.webp)
+![](/blog/assets/media/20200627/633288a05ab1dc319510806d6c3fc40b.jpeg)
 
 **在人字提遠眺玉壘山**
 
-![](/blog/assets/media/20200627/124722faf259e17dc9889018986c6c39.webp)
+![](/blog/assets/media/20200627/124722faf259e17dc9889018986c6c39.jpeg)
 
 **通往玉壘山的牌樓**
 
-![](/blog/assets/media/20200627/72e8c7b4cb520c223a111d715767ebe7.webp)
+![](/blog/assets/media/20200627/72e8c7b4cb520c223a111d715767ebe7.jpeg)
 
 **上山第一站城隍廟**
 
-![](/blog/assets/media/20200627/46e2c5bb3e541e98d3f6ddea545f15b6.webp)
+![](/blog/assets/media/20200627/46e2c5bb3e541e98d3f6ddea545f15b6.jpeg)
 
 **觀景台眺望整個都江堰**
 
@@ -123,15 +123,15 @@ image: /blog/assets/media/20200627/efbe78333f6519f658bb9fed9bf9b289.webp
 
 早上比較涼快，所以我決定先去青城山走走，下午再去參觀都江堰。青城山位在都江堰南面，分為前山和後山，因為後山門票比較便宜，20元人民幣，只想爬山踏青的我當然選擇後山，爬山完山再去都江堰參觀，完美的一日遊。高鐵到達青城山站，再搭乘前往青城後山的旅遊巴士，來回票25元，下山之後在同一個換成站搭101路公車就可以到都江堰。
 
-![](/blog/assets/media/20200627/f8447ffc4569f5a6e7383e41499f5057.webp)
+![](/blog/assets/media/20200627/f8447ffc4569f5a6e7383e41499f5057.jpeg)
 
 **高鐵青城山站，也是通勤鐵路的終點站**
 
-![](/blog/assets/media/20200627/010a9e4b681acc2782ea4df4f7c12800.webp)
+![](/blog/assets/media/20200627/010a9e4b681acc2782ea4df4f7c12800.jpeg)
 
 **走一小段路可以看到上山的公車**
 
-![](/blog/assets/media/20200627/e51d4707916d2c5b2a13cf0d8c1bd8e5.webp)
+![](/blog/assets/media/20200627/e51d4707916d2c5b2a13cf0d8c1bd8e5.jpeg)
 
 **下山在這裡搭車，在下車站上車**
 
@@ -140,9 +140,9 @@ image: /blog/assets/media/20200627/efbe78333f6519f658bb9fed9bf9b289.webp
 
 古鎮位在青城後山景區內，是景區的商業中心，這裡提供了住宿，餐飲各種服務，也有人會在這裡找拼車去高鐵站或是去都江堰。因為這次的活動志在爬山，所以沒有做太多的著墨。
 
-![](/blog/assets/media/20200627/9919f18803c1e5fa97453fa17a54d645.webp)
+![](/blog/assets/media/20200627/9919f18803c1e5fa97453fa17a54d645.jpeg)
 
-![](/blog/assets/media/20200627/dcc4dc9fb5f23ee72ebc9180562e3548.webp)
+![](/blog/assets/media/20200627/dcc4dc9fb5f23ee72ebc9180562e3548.jpeg)
 
 ***
 ### 五龍溝和龍隱峽
@@ -151,22 +151,22 @@ image: /blog/assets/media/20200627/efbe78333f6519f658bb9fed9bf9b289.webp
 
 泰安古鎮以及中途站又一村有兩段纜車，搭乘這兩段纜車可以只爬短短的山路就到達山頂，可以選擇走一段配合一段纜車上下山頂，時間有限的我走到又一村後搭乘纜車下山，單程30元人民幣。
 
-![](/blog/assets/media/20200627/528c73f42a977fe42340f484f5cecf59.webp)
+![](/blog/assets/media/20200627/528c73f42a977fe42340f484f5cecf59.jpeg)
 
-![](/blog/assets/media/20200627/af8025d5452bc1ffed043fd22d838f2a.webp)
+![](/blog/assets/media/20200627/af8025d5452bc1ffed043fd22d838f2a.jpeg)
 
-![](/blog/assets/media/20200627/1568b5072b152ff9baefd096a142f242.webp)
+![](/blog/assets/media/20200627/1568b5072b152ff9baefd096a142f242.jpeg)
 
-![](/blog/assets/media/20200627/60f5b2f54fe9d89da5237032c43b9588.webp)
+![](/blog/assets/media/20200627/60f5b2f54fe9d89da5237032c43b9588.jpeg)
 
-![](/blog/assets/media/20200627/f0d0f7b9b72e089354357314a1981644.webp)
+![](/blog/assets/media/20200627/f0d0f7b9b72e089354357314a1981644.jpeg)
 
-![](/blog/assets/media/20200627/20509d323937e8521a60247d5123d54b.webp)
+![](/blog/assets/media/20200627/20509d323937e8521a60247d5123d54b.jpeg)
 
-![](/blog/assets/media/20200627/e2668a2e20ab0c61a4b13901d2a6cf6c.webp)
+![](/blog/assets/media/20200627/e2668a2e20ab0c61a4b13901d2a6cf6c.jpeg)
 
-![](/blog/assets/media/20200627/b72eb6943ae47ac828458ec95af97496.webp)
+![](/blog/assets/media/20200627/b72eb6943ae47ac828458ec95af97496.jpeg)
 
-![](/blog/assets/media/20200627/6d409dee9d754e99333e0a73d2eaee04.webp)
+![](/blog/assets/media/20200627/6d409dee9d754e99333e0a73d2eaee04.jpeg)
 
 **位在泰安古鎮後段的金麗索道，可以直達又一村**
